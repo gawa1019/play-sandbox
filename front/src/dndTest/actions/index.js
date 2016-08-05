@@ -1,4 +1,4 @@
-import {action, error} from "make-action";
+import {action, error} from "../../util/make-action";
 import * as type from "../values/actionType";
 
 export const inputText = action(type.INPUT_TEXT);
