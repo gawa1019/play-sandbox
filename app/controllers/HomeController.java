@@ -20,4 +20,11 @@ public class HomeController extends Controller {
         return ok(index.render());
     }
 
+    public Result basicSample() {
+        return ok(basicSample.render());
+    }
+
+    public Result dndSample() {
+        return ok(dndSample.render());
+    }
 }

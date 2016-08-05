@@ -3,6 +3,7 @@ var path = require("path");
 
 module.exports = {
 	entry: {
+		basicSample: "./src/basicSample/index.js",
 		dndTest: "./src/dndTest/index.js"
 	},
 	output: {
