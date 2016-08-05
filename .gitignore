@@ -1,0 +1,10 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+front/node_modules
+public/javascripts
